@@ -11,9 +11,9 @@ receptionists at the Westminster Health Centre.
 
 | | URL |
 |---|---|
-| **Frontend** | https://your-app.vercel.app |
-| **API** | https://your-api.railway.app |
-| **Swagger UI** | https://your-api.railway.app/swagger-ui |
+| **Frontend** | https://health-centre-application.vercel.app/ |
+| **API** | https://healthcentreapplication-production.up.railway.app/ |
+| **Swagger UI** | https://healthcentreapplication-production.up.railway.app/swagger-ui|
 
 ---
 
